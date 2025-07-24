@@ -7,6 +7,9 @@ Network: Avalanche Fuji Testnet
 Chain ID: 43113
 Explorer Link: Snowtrace Fuji Explorer
 
+## Chains Explorer Link
+``` https://testnet.snowtrace.io/address/0x1480879Da40cD708A9bE3829D05BAF9350912Cc0/contract/43113/code ```
+
 ## Network Configuration
 
 RPC Endpoint: `https://api.avax-test.network/ext/bc/C/rpc`
