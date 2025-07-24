@@ -7,12 +7,6 @@ Network: Avalanche Fuji Testnet
 Chain ID: 43113
 Explorer Link: Snowtrace Fuji Explorer
 
-Deployment Instructions
-1. Set Up Environment
-
-Use a development tool such as Hardhat, Truffle, or Remix.
-Configure your project to connect to the Avalanche Fuji testnet.
-
 ## Network Configuration
 
 RPC Endpoint: `https://api.avax-test.network/ext/bc/C/rpc`
